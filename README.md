@@ -1,4 +1,3 @@
-![Visitors](https://komarev.com/ghpvc/?username=Aria-od&style=flat-square&color=black)
 # My Cybersecurity Projects
 
 A collection of hands-on cybersecurity and infrastructure projects.  
